@@ -1,9 +1,3 @@
-/*
-    N220
-    Hieu Nguyen
-    Week 14 assignment
-    Tic tac toe
-*/
 
 //create function main
 function main(){
